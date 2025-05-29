@@ -17,7 +17,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 ![image](https://github.com/plpatil1/plpatil1.github.io/blob/main/assets/images/image.png))
 ![image]()
 
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![ss](https://github.com/plpatil1/plpatil1.github.io/blob/main/assets/images/skillsset.png)
 
 
 <h2>📬 Contact</h2>
