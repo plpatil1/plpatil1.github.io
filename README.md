@@ -1,4 +1,4 @@
-![image]()## Portfolio-Website
+![image](https://github.com/plpatil1/plpatil1.github.io/blob/main/assets/images/image.png)## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 <a href="https://plpatil1.github.io/" target="_blank">**Visit Now** 🚀</a>
@@ -14,7 +14,8 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![image](https://github.com/user-attachments/assets/283d1536-918f-4f06-ba4a-7d2ad118b1de)
+![image](https://github.com/plpatil1/plpatil1.github.io/blob/main/assets/images/image.png))
+![image]()
 
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
