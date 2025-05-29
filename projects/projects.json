@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stay and Lift",
+    "desc": "This Prooject wellness and fitness application TechStacks- React js,Firebase, Redux,Chakra UI",
+    "image": "leanandlift",
+    "category": "mern",
+    "links": {
+      "view": "https://leanandlift.netlify.app/",
+      "code": "https://github.com/rambedade/Republic-Ruby_034"
+    }
+  },
+  {
+    "name": "Algorithm Visualizer",
+    "desc": "An educational web app to visualize sorting and pathfinding algorithms. Built with HTML, CSS, Bootstrap, and JavaScript for performance and easy learning.",
+    "image": "algoritham",
+    "category": "lamp",
+    "links": {
+      "view": "https://algorithammvisualizerrr.netlify.app/",
+      "code": "https://github.com/plpatil1/CW-Twitter-Trailblazers_099"
+    }
+  },
+  {
+    "name": "FitNation",
+    "desc": "A frontend fitness website offering a wide range of fitness products and resources. Built using HTML, CSS, and Bootstrap for a seamless user experience.",
+    "image": "fitnation",
+    "category": "basicweb",
+    "links": {
+      "view": "https://algorithammvisualizerrr.netlify.app/",
+      "code": "https://github.com/abhishek3042/Krishna-Array-007"
+    }
+  }
+]
